@@ -11,7 +11,7 @@ char board[3][3] = {' ',' ',' ',
                     ' ',' ',' ',};
 
 int turn = 1; //1-player 1  | 0-player 2
-int mark = 'o'; // o player 1 | x player 2
+int mark = 'o'; // o player 1 | x player 2   
 int input;
 
 int main(){
